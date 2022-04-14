@@ -1,0 +1,44 @@
+body {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.header {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: space-between;
+    color: #ffffff;
+   
+}
+
+.header-main {
+    background-color: #1f2937;
+    color: #ffffff;
+}
+
+.main-text {
+
+}
+.mid-body {
+    background-color: #ffffff;
+}
+
+.main-body-content {
+    display: flex;
+    text-align: center;
+}
+
+.quote-body {
+    background-color: #e5e7eb;
+}
+
+.sign-up-box {
+    background-color: #ffffff;
+}
+
+.footer {
+    background-color: #1f2937;
+}
+
